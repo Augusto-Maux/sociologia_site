@@ -244,6 +244,7 @@ body {
     }
 
     .write-button {
+      text-align: center;
       background: white;
       color: var(--blue-light);
       border: none;
